@@ -1,1 +1,1 @@
-# trabalho-gerenciamento-de-curr-culo
+# trabalho-gerenciamento-de-curriculo
